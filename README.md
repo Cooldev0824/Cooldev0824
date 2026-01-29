@@ -10,18 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cooldev0824&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### 🐍 My Contribution Graph
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Cooldev0824/Cooldev0824/output/snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Cooldev0824/Cooldev0824/output/snake.svg#gh-light-mode-only)
-
-
-### 📈 Profile Views
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Cooldev0824/count.svg?" alt="Visitor Counter" />
-</div>
-
 ### 💡 Development Philosophy
 
 <div align="left" style="background: linear-gradient(145deg, #2D2D2D, #1a1a1a); padding: 25px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
